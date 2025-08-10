@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "tahrir",
   "version": "1.0.0",
   "scripts": {
     "start": "node index.js"
